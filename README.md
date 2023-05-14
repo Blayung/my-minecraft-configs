@@ -1,0 +1,128 @@
+# My minecraft fabric client config
+### The shader/resource pack's zip files and mod jars aren't included, you have to download them yourself.
+## Mods
+- [Anaglyph Fabric](https://github.com/vlad2305m/Anaglyph-fabric)
+- [Bad Packets](https://modrinth.com/mod/badpackets)
+- [Boat Item View Fabric](https://modrinth.com/mod/boat-item-view)
+- [Bookshelf](https://github.com/Darkhax-Minecraft/Bookshelf)
+- [Boosted Brightness](https://modrinth.com/mod/boosted-brightness)
+- [Cloth Config v9](https://modrinth.com/mod/cloth-config)
+- [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
+- [Fabric API](https://modrinth.com/mod/fabric-api)
+- [FerriteCore](https://modrinth.com/mod/ferrite-core)
+- [Iris](https://irisshaders.net)
+- [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)
+- [Lithium](https://modrinth.com/mod/lithium)
+- [Logical Zoom](https://modrinth.com/mod/logical-zoom)
+- [MaLiLib](https://github.com/maruohon/malilib)
+- [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix)
+- [MiniHUD](https://github.com/maruohon/minihud)
+- [Mod Menu](https://modrinth.com/mod/modmenu)
+- [MoreChatHistory](https://modrinth.com/mod/morechathistory)
+- [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
+- [No Telemetry](https://modrinth.com/mod/no-telemetry)
+- [Portals GUI](https://modrinth.com/mod/portals-gui)
+- [Presence Footsteps](https://modrinth.com/mod/presence-footsteps)
+- [Random Language Mod](https://modrinth.com/mod/random-language-mod)
+- [Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip)
+- [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)
+- [Sodium](https://modrinth.com/mod/sodium)
+- [Starlight](https://modrinth.com/mod/starlight)
+- [ToolTip Fix](https://modrinth.com/mod/tooltipfix)
+- [ViaFabricPlus](https://modrinth.com/mod/viafabricplus)
+- [WorldEdit](https://enginehub.org/worldedit)
+- [wthit](https://modrinth.com/mod/wthit)
+- [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
+- [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)
+## Resource packs
+- [Tux Totem](https://modrinth.com/resourcepack/tux-totem)
+- [Vanilla Tweaks](https://vanillatweaks.net)
+  - Aesthetic
+    - Different Stems
+    - Horizontal Nuggets
+    - Brown Leather
+    - Animated Campfire Items
+    - Flint Tipped Arrows
+    - Splash Bottle o' Enchanting
+  - Terrain
+    - Twinkling Stars
+    - Circular Log Tops
+    - Clearer Water
+    - Shorter Grass
+    - Shorter Tall Grass
+  - Lower and Sides
+    - Lower Grass
+    - Lower Mycelium
+    - Lower Grass Paths
+    - Lower Podzol
+    - Lower Snow
+  - Variation
+    - Variated Coarse Dirt
+    - Variated Grass
+    - Variated Cobblestone
+    - Variated Moss
+    - Variated Bricks
+    - Variated Birch Logs
+    - Variated Red Mushroom Blocks
+    - Variated End Stone
+    - Variated Gravel
+    - Variated Planks
+    - Variated Stone
+    - Variated Terracotta
+    - Variated Unpolished Stones
+    - Variated Bookshelves
+  - Utility
+    - Visual Infested Stone (Items)
+    - Visual Waxed Copper (Items)
+    - Age 25 Kelp
+    - Clear Banner Patterns
+    - Sticky Piston Sides
+    - Directional Hoppers
+    - Directional Dispensers & Droppers
+    - Directional Observers
+    - Clean Redstone Dust
+    - Redstone Power Levels
+    - Visible Tripwires
+    - Brewing Guide
+    - Visual Honey Stages
+    - Arabic Numerals
+  - Unobtrusive
+    - Unobtrusive Rain
+    - Unobtrusive Snow
+    - Lower Fire
+    - Lower Shield
+    - No Pumpkin Overlay
+    - No Vignette
+  - HUD
+    - Wither Hearts
+    - Ping Color Indicator
+  - Options Backgrounds
+    - Polished Basalt
+  - Retro
+    - Bed Icons
+    - Blue Widgets Highlight
+  - Fixes
+    - Item Stitching Fix
+    - Updated Observer Texture
+    - Updated Toast Textures
+    - Updated Recipe Button Texture
+    - Updated Stat Icon Textures
+    - Updated Spectator Icon Textures
+    - Big Dripleaf Stem Fix
+    - Small Dripleaf Stem Fix
+    - Consistent Buckets
+    - Cactus Bottom Fix
+    - Soul Soil Campfire
+    - Blaze's Rods Fix
+    - Slime Particle Fix
+    - Nicer Fast Leaves
+    - Proper Break Particles
+    - Don't Eat The Bowl!
+    - Iron Bars Fix
+    - Hoe Fix
+    - Hopper Bottom Fix
+    - Tuxedo Cat Fix
+## Shader packs
+- [BSL Shaders](https://modrinth.com/shader/bsl-shaders)
+- [Complementary Reimagined](https://modrinth.com/shader/complementary-reimagined)
+- [Sildur's Enchanced Default](https://sildurs-shaders.github.io)

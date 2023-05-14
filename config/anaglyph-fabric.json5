@@ -1,0 +1,11 @@
+{
+	"anaglyphMode": false,
+	"colorlessFog": true,
+	"eyeDistance": 0.0625,
+	"enableAngle": true,
+	"angle": -4.0,
+	"rightR": false,
+	"rightG": true,
+	"rightB": true,
+	"renderCrosshair": true
+}
