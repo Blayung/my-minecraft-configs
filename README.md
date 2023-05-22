@@ -15,7 +15,6 @@
 - [Lithium](https://modrinth.com/mod/lithium)
 - [Logical Zoom](https://modrinth.com/mod/logical-zoom)
 - [MaLiLib](https://github.com/maruohon/malilib)
-- [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix)
 - [MiniHUD](https://github.com/maruohon/minihud)
 - [Mod Menu](https://modrinth.com/mod/modmenu)
 - [MoreChatHistory](https://modrinth.com/mod/morechathistory)
