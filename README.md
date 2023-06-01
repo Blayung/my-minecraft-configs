@@ -10,6 +10,7 @@
 - [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
 - [Fabric API](https://modrinth.com/mod/fabric-api)
 - [FerriteCore](https://modrinth.com/mod/ferrite-core)
+- [Immediately Fast](https://modrinth.com/mod/immediatelyfast)
 - [Iris](https://irisshaders.net)
 - [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)
 - [Lithium](https://modrinth.com/mod/lithium)
