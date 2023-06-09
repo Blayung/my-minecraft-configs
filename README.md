@@ -1,4 +1,5 @@
 # My minecraft fabric client config
+### Minecraft version: 1.19.4
 ### The shader/resource pack's zip files and mod jars aren't included, you have to download them yourself.
 ## Mods
 - [Anaglyph Fabric](https://github.com/vlad2305m/Anaglyph-fabric)
