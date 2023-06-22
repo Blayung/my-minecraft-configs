@@ -45,7 +45,7 @@
     - Animated Campfire Items
     - Flint Tipped Arrows
     - Splash Bottle o' Enchanting
-    - 2d Spyglass
+    - 2D Spyglass
   - Terrain
     - Twinkling Stars
     - Circular Log Tops
