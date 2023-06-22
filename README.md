@@ -1,5 +1,5 @@
 # My minecraft fabric client config
-### Minecraft version: 1.20.1
+### Minecraft version: 1.20.1 (for my archived 1.19.4 config take a look into [the 1.19.4 branch of this repo](https://github.com/Blayung/my-minecraft-configs/tree/1.19.4))
 ### The shader/resource pack's zip files and mod jars aren't included, you have to download them yourself.
 ## Mods
 - [Allow Portal GUIs](https://modrinth.com/mod/allow-portal-guis)
