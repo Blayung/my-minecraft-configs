@@ -36,7 +36,7 @@
 - [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)
 ## Resource packs
 - [Tux Totem](https://modrinth.com/resourcepack/tux-totem)
-- [Vanilla Tweaks](https://vanillatweaks.net) **I'll have to update this, but currently I'm kinda too lazy!**
+- [Vanilla Tweaks](https://vanillatweaks.net) **(I'll have to update this, but currently I'm kinda too lazy!)**
   - Aesthetic
     - Different Stems
     - Horizontal Nuggets
