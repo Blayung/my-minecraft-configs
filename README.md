@@ -36,26 +36,28 @@
 - [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)
 ## Resource packs
 - [Tux Totem](https://modrinth.com/resourcepack/tux-totem)
-- [Vanilla Tweaks](https://vanillatweaks.net) **(I'll have to update this, but currently I'm kinda too lazy!)**
+- [Vanilla Tweaks](https://vanillatweaks.net)
   - Aesthetic
     - Different Stems
     - Horizontal Nuggets
     - Brown Leather
+    - HD Shield Banner Patterns
     - Animated Campfire Items
     - Flint Tipped Arrows
     - Splash Bottle o' Enchanting
+    - 2d Spyglass
   - Terrain
     - Twinkling Stars
     - Circular Log Tops
     - Clearer Water
     - Shorter Grass
     - Shorter Tall Grass
-  - Lower and Sides
-    - Lower Grass
-    - Lower Mycelium
-    - Lower Grass Paths
-    - Lower Podzol
-    - Lower Snow
+      - Lower and Sides
+        - Lower Grass
+        - Lower Mycelium
+        - Lower Grass Paths
+        - Lower Podzol
+        - Lower Snow
   - Variation
     - Variated Coarse Dirt
     - Variated Grass
@@ -82,7 +84,7 @@
     - Directional Observers
     - Clean Redstone Dust
     - Redstone Power Levels
-    - Visible Tripwires
+    - Compass Lodestone
     - Brewing Guide
     - Visual Honey Stages
     - Arabic Numerals
@@ -91,26 +93,37 @@
     - Unobtrusive Snow
     - Lower Fire
     - Lower Shield
-    - No Pumpkin Overlay
+    - Transculent Pumpkin Overlay
     - No Vignette
   - HUD
     - Wither Hearts
     - Ping Color Indicator
+  - GUI
+    - No Java Edition Subtitle
+    - Literal Gamerule Names
   - Options Backgrounds
     - Polished Basalt
   - Retro
+    - Classic Minecraft Logo
+    - Classic Ores
+    - Pre-1.18 Stripped Dark Oak
+    - Old Planks
+    - Old Netherrack
+    - Old Sponge
     - Bed Icons
     - Blue Widgets Highlight
-  - Fixes
+    - Old Door Sound
+  - Fun
+    - Spinning Skull on Fire Painting
+    - WHAT
+  - Fixes and Consistency
     - Item Stitching Fix
     - Updated Observer Texture
     - Updated Toast Textures
-    - Updated Recipe Button Texture
     - Updated Stat Icon Textures
     - Updated Spectator Icon Textures
     - Big Dripleaf Stem Fix
     - Small Dripleaf Stem Fix
-    - Consistent Buckets
     - Cactus Bottom Fix
     - Soul Soil Campfire
     - Blaze's Rods Fix
@@ -120,5 +133,3 @@
     - Don't Eat The Bowl!
     - Iron Bars Fix
     - Hoe Fix
-    - Hopper Bottom Fix
-    - Tuxedo Cat Fix
