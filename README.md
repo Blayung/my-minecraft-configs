@@ -1,18 +1,18 @@
 # My minecraft fabric client config
-### Minecraft version: 1.19.4
+### Minecraft version: 1.20.1
 ### The shader/resource pack's zip files and mod jars aren't included, you have to download them yourself.
 ## Mods
-- [Anaglyph Fabric](https://github.com/vlad2305m/Anaglyph-fabric)
+- [Allow Portal GUIs](https://modrinth.com/mod/allow-portal-guis)
 - [Bad Packets](https://modrinth.com/mod/badpackets)
 - [Boat Item View Fabric](https://modrinth.com/mod/boat-item-view)
-- [Bookshelf](https://github.com/Darkhax-Minecraft/Bookshelf)
 - [Boosted Brightness](https://modrinth.com/mod/boosted-brightness)
-- [Cloth Config v9](https://modrinth.com/mod/cloth-config)
+- [Cloth Config v11](https://modrinth.com/mod/cloth-config)
 - [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
 - [Fabric API](https://modrinth.com/mod/fabric-api)
 - [FerriteCore](https://modrinth.com/mod/ferrite-core)
+- [Freecam](https://modrinth.com/mod/freecam)
 - [Immediately Fast](https://modrinth.com/mod/immediatelyfast)
-- [Iris](https://irisshaders.net)
+- [Iris](https://irisshaders.dev)
 - [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)
 - [Lithium](https://modrinth.com/mod/lithium)
 - [Logical Zoom](https://modrinth.com/mod/logical-zoom)
@@ -20,9 +20,8 @@
 - [MiniHUD](https://github.com/maruohon/minihud)
 - [Mod Menu](https://modrinth.com/mod/modmenu)
 - [MoreChatHistory](https://modrinth.com/mod/morechathistory)
+- [Mouse Wheelie](https://modrinth.com/mod/mouse-wheelie)
 - [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
-- [No Telemetry](https://modrinth.com/mod/no-telemetry)
-- [Portals GUI](https://modrinth.com/mod/portals-gui)
 - [Presence Footsteps](https://modrinth.com/mod/presence-footsteps)
 - [Random Language Mod](https://modrinth.com/mod/random-language-mod)
 - [Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip)
@@ -32,12 +31,12 @@
 - [ToolTip Fix](https://modrinth.com/mod/tooltipfix)
 - [ViaFabricPlus](https://modrinth.com/mod/viafabricplus)
 - [WorldEdit](https://enginehub.org/worldedit)
-- [wthit](https://modrinth.com/mod/wthit)
+- [wthit](https://modrinth.com/mod/wthit) (doesn't work for some reason)
 - [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
 - [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)
 ## Resource packs
 - [Tux Totem](https://modrinth.com/resourcepack/tux-totem)
-- [Vanilla Tweaks](https://vanillatweaks.net)
+- [Vanilla Tweaks](https://vanillatweaks.net) **I'll have to update this, but currently I'm kinda too lazy!**
   - Aesthetic
     - Different Stems
     - Horizontal Nuggets
@@ -123,7 +122,3 @@
     - Hoe Fix
     - Hopper Bottom Fix
     - Tuxedo Cat Fix
-## Shader packs
-- [BSL Shaders](https://modrinth.com/shader/bsl-shaders)
-- [Complementary Reimagined](https://modrinth.com/shader/complementary-reimagined)
-- [Sildur's Enchanced Default](https://sildurs-shaders.github.io)
