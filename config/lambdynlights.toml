@@ -41,6 +41,7 @@
 				furnace_minecart = true
 				item_frame = true
 				horse = true
+				phantom = true
 				ender_dragon = true
 				evoker = true
 				glow_squid = true

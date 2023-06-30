@@ -120,7 +120,7 @@ key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_key.dynamicfps.toggle_forced:key.keyboard.unknown
 key_key.dynamicfps.toggle_disabled:key.keyboard.unknown
-key_key.boosted-brightness.next:key.keyboard.unknown
+key_key.boosted-brightness.next:key.keyboard.g
 key_key.boosted-brightness.raise:key.keyboard.unknown
 key_key.boosted-brightness.lower:key.keyboard.unknown
 key_key.boosted-brightness.select1:key.keyboard.unknown
@@ -128,7 +128,7 @@ key_key.boosted-brightness.select2:key.keyboard.unknown
 key_key.boosted-brightness.select3:key.keyboard.unknown
 key_key.boosted-brightness.select4:key.keyboard.unknown
 key_key.boosted-brightness.select5:key.keyboard.unknown
-key_key.freecam.toggle:key.keyboard.unknown
+key_key.freecam.toggle:key.keyboard.f6
 key_key.freecam.playerControl:key.keyboard.unknown
 key_key.freecam.tripodReset:key.keyboard.unknown
 key_key.freecam.configGui:key.keyboard.unknown
@@ -157,6 +157,11 @@ key_key.voice_chat_settings:key.keyboard.k
 key_key.voice_chat_group:key.keyboard.unknown
 key_key.voice_chat_toggle_recording:key.keyboard.unknown
 key_key.voice_chat_adjust_volumes:key.keyboard.unknown
+key_key.waila.config:key.keyboard.unknown
+key_key.waila.show_overlay:key.keyboard.unknown
+key_key.waila.toggle_liquid:key.keyboard.unknown
+key_key.waila.show_recipe_input:key.keyboard.unknown
+key_key.waila.show_recipe_output:key.keyboard.unknown
 key_gui.xaero_switch_waypoint_set:key.keyboard.unknown
 key_gui.xaero_instant_waypoint:key.keyboard.semicolon
 key_gui.xaero_toggle_slime:key.keyboard.unknown

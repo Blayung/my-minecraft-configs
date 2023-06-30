@@ -31,7 +31,7 @@
 - [ToolTip Fix](https://modrinth.com/mod/tooltipfix)
 - [ViaFabricPlus](https://modrinth.com/mod/viafabricplus)
 - [WorldEdit](https://enginehub.org/worldedit)
-- [wthit](https://modrinth.com/mod/wthit) (doesn't work for some reason)
+- [wthit](https://modrinth.com/mod/wthit)
 - [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
 - [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)
 ## Resource packs

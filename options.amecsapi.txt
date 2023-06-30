@@ -71,6 +71,11 @@ key_modifiers_key.voice_chat_settings:0,0,0
 key_modifiers_key.voice_chat_group:0,0,0
 key_modifiers_key.voice_chat_toggle_recording:0,0,0
 key_modifiers_key.voice_chat_adjust_volumes:0,0,0
+key_modifiers_key.waila.config:0,0,0
+key_modifiers_key.waila.show_overlay:0,0,0
+key_modifiers_key.waila.toggle_liquid:0,0,0
+key_modifiers_key.waila.show_recipe_input:0,0,0
+key_modifiers_key.waila.show_recipe_output:0,0,0
 key_modifiers_gui.xaero_switch_waypoint_set:0,0,0
 key_modifiers_gui.xaero_instant_waypoint:0,0,0
 key_modifiers_gui.xaero_toggle_slime:0,0,0
