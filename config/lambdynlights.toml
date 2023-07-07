@@ -46,6 +46,7 @@
 				evoker = true
 				glow_squid = true
 				squid = true
+				snowball = true
 				parrot = true
 				creeper = true
 				lightning_bolt = true
