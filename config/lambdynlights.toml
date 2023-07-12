@@ -71,6 +71,7 @@
 				cat = true
 				zombie = true
 				ender_pearl = true
+				ghast = true
 				sheep = true
 				player = true
 				wither_skull = true

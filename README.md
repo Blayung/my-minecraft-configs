@@ -34,6 +34,8 @@
 - [wthit](https://modrinth.com/mod/wthit)
 - [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
 - [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)
+## Shaders
+- [Complementary Reimagined](https://www.complementary.dev/reimagined)
 ## Resource packs
 - [Tux Totem](https://modrinth.com/resourcepack/tux-totem)
 - [Vanilla Tweaks](https://vanillatweaks.net)
