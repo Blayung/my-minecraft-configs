@@ -46,7 +46,7 @@ resourcePacks:["vanilla","fabric","white_icons","file/VanillaTweaks-1.20.1.zip",
 incompatibleResourcePacks:["file/tux totem.zip"]
 lastServer:acmc.pl
 lang:en_us
-soundDevice:""
+soundDevice:"JACK Default"
 chatVisibility:0
 chatOpacity:1.0
 chatLineSpacing:0.0
@@ -191,7 +191,7 @@ key_gui.xaero_quick_confirm:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.right.control
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
-soundCategory_master:0.5024834437086093
+soundCategory_master:1.0
 soundCategory_music:0.20246478873239437
 soundCategory_record:1.0
 soundCategory_weather:0.1056338028169014
